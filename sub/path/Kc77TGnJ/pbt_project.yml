@@ -1,0 +1,57 @@
+name: christina.deckow
+description: attitude-oriented
+version: 0.0.1
+author: igethavj.zfahsjx1@cualvayk.com
+language: scala
+buildSystem: ''
+buildSystemDetails:
+  artefactID: christinadeckow
+  parentArtefactID: team1729802120826
+  buildSystem: maven
+  author: null
+  createdAt: '2024-10-24 20:35:21'
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: 2.12.15
+  gemLibsVersion: 1.1.26
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2024-10-24 20:35:21'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlPipeline: null
+dependencies:
+- modifiedAt: '2024-10-24T20:35:21.696653Z'
+  name: plibMaven
+  version: 8.5.0-SNAPSHOT
+  id: '2017490104'
+  createdAt: '2024-10-24T20:35:21.696653Z'
+  type: plibMaven
+projectDependencies:
+  '419':
+    projectUID: 419
+    projectName: sherryl.christiansen
+    repositoryPath: gitUri=http://gitserver:3000/dev_H30DNeZU_team_673/dev_H30DNeZU_project_419.git&subPath=
+    version: sherryl.christiansen/4.9.6.442
+    isDefault: false
+    author: null
+    createdAt: '2024-10-24 20:35:21'
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations: {}
